@@ -1,0 +1,9 @@
+---------Sistema Operativo y sus instrucciones------------------------------
+
+1-Nombres de Equipos:
+Sevidor: webServer@RER
+Tipo de Sistemas Operativ(OS): Linux.
+Nombre OS: UBUNTU
+RAM: 1 GB (1024 MB)
+Tipos HDD= VHD
+Cantidad hdd: 30 gb 
